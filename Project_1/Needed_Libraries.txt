@@ -1,0 +1,11 @@
+Needed Libraries: 
+
+
+matplotlib
+
+pyshp
+
+numpy
+
+
+Run the "python3 app.py" file and everything should work. 
